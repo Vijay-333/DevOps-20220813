@@ -1,3 +1,1 @@
-# DevOps-20220813
-Simplilearn Demo
-Adding new linr.
+Modifying the readmeFile
